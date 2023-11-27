@@ -38,6 +38,8 @@ In `application.properties`
 - Configure Thymeleaf cache
 - Configure JPA
 
+:bulb: `h2-console` is actually an awesome tool to look at your database. When you start your application, you can acces it using `/h2-console` endpoint, using `JDBC URL`, `User Name` and `Password` from your configurations
+
 ### —— Backend —— 
 
 **1. Entities**
